@@ -1,2 +1,2 @@
-# fuckingCode
+# rookie
 Hello Github world
